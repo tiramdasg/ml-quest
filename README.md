@@ -13,7 +13,7 @@ Once the venv is active run the following command only once.
 pip install -r requirements.txt
 ```
 
-Because we are in a venv, first go in the folder location and then run the code as follows.
+Because we are in a venv, first go in the folder location and then run the .py files as follows.
 
 ```shell
 cd .\data_preprocessing\
